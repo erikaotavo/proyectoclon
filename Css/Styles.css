@@ -1,8 +1,8 @@
 body{
-    margin: 0px;
+    margin: 12px;
     padding: 0px;
     font-size: 13px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif;
 }
 header{
     height: 60px;
@@ -13,9 +13,21 @@ nav{
     display: flex;
     justify-content:flex-end;
 }
-.Ms li{
+.ss li{
     display:inline;
     width:250px;
     height:auto;
     
+
+.menu-icon{
+    text-shadow: tranparent;
+    color:transparente;
+    text-decoration:none
+    backdrop image:url(https://static.thenounproject.com/png/756729-200.png);
+    background-repeat:no-repeat
+    bacgroun-position: center;
+    bacground-size:contain;
+    font weight; 25px;
+    height: 25px;
 }
+    
